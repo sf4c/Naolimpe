@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.5a46cc95.css",
-    "main.js": "./static/js/main.797d1862.js",
+    "main.js": "./static/js/main.a4810496.js",
     "static/media/cup2.png": "./static/media/cup2.0d4ca07aa0487ef2c661.png",
     "static/media/product-example.png": "./static/media/product-example.3c89b682273456f4ca47.png",
     "static/media/gift-logo-ranhigs.png": "./static/media/gift-logo-ranhigs.d63cf677d557e8166354.png",
@@ -84,10 +84,10 @@
     "static/media/logo-name-8.svg": "./static/media/logo-name-8.15357369dcacb651f760.svg",
     "static/media/logo-name-2.svg": "./static/media/logo-name-2.b074a0d340d5461e087a.svg",
     "main.5a46cc95.css.map": "./static/css/main.5a46cc95.css.map",
-    "main.797d1862.js.map": "./static/js/main.797d1862.js.map"
+    "main.a4810496.js.map": "./static/js/main.a4810496.js.map"
   },
   "entrypoints": [
     "static/css/main.5a46cc95.css",
-    "static/js/main.797d1862.js"
+    "static/js/main.a4810496.js"
   ]
 }
