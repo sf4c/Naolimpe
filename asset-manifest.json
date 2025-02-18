@@ -1,7 +1,12 @@
 {
   "files": {
+<<<<<<< Updated upstream
     "main.css": "./static/css/main.5a46cc95.css",
     "main.js": "./static/js/main.a4810496.js",
+=======
+    "main.css": "./static/css/main.890e9607.css",
+    "main.js": "./static/js/main.2d296ffb.js",
+>>>>>>> Stashed changes
     "static/media/cup2.png": "./static/media/cup2.0d4ca07aa0487ef2c661.png",
     "static/media/product-example.png": "./static/media/product-example.3c89b682273456f4ca47.png",
     "static/media/gift-logo-ranhigs.png": "./static/media/gift-logo-ranhigs.d63cf677d557e8166354.png",
@@ -17,6 +22,7 @@
     "static/media/gift-logo-sberbank.png": "./static/media/gift-logo-sberbank.6d5ebdfa2e18827be8b8.png",
     "static/media/manager.jpg": "./static/media/manager.4585aca36ed7694dbdcf.jpg",
     "static/media/recommendation.png": "./static/media/recommendation.de66b743589531c612fc.png",
+    "static/media/photo-example.png": "./static/media/photo-example.8a118126ce1b439e7f42.png",
     "static/media/gift-logo-quiz.png": "./static/media/gift-logo-quiz.7a9ae0a957a006e8eefc.png",
     "static/media/gift-image-volvo.png": "./static/media/gift-image-volvo.de97263894749a2fdbdd.png",
     "static/media/gift-image-gazprom.png": "./static/media/gift-image-gazprom.a5a11e85acde15b06db5.png",
@@ -38,16 +44,29 @@
     "static/media/delivery.svg": "./static/media/delivery.5c81fe8832819d18e357.svg",
     "static/media/logo-white.svg": "./static/media/logo-white.696ec7e684b4ca81b496.svg",
     "static/media/tocart.svg": "./static/media/tocart.dc0d939a1a80dea04a0f.svg",
+<<<<<<< Updated upstream
+=======
+    "static/media/cart3.svg": "./static/media/cart3.97cedd15d42cb0822c71.svg",
+>>>>>>> Stashed changes
     "static/media/cart2.svg": "./static/media/cart2.588621a2ed4f89f6926f.svg",
     "static/media/cart.svg": "./static/media/cart.5fabdc8343bf7d2cb950.svg",
     "static/media/exit.svg": "./static/media/exit.8859c25ff3f3bb7a0b74.svg",
+    "static/media/delivery1.svg": "./static/media/delivery1.d8f6596295c8f7438163.svg",
     "static/media/status.svg": "./static/media/status.428fef5a271d441f7f24.svg",
     "static/media/logo-image.svg": "./static/media/logo-image.317de573f3ab672a19e2.svg",
+    "static/media/file.svg": "./static/media/file.34e67b901f97d7b8ff70.svg",
+    "static/media/discount.svg": "./static/media/discount.d23f3fc0c8f2f5338ee7.svg",
     "static/media/history.svg": "./static/media/history.14cade747f05c4cae99e.svg",
     "static/media/tofavorites2.svg": "./static/media/tofavorites2.941c5229ce9243e58835.svg",
+<<<<<<< Updated upstream
+=======
+    "static/media/camera1.svg": "./static/media/camera1.cb37d7923cced1e0e957.svg",
+>>>>>>> Stashed changes
     "static/media/camera.svg": "./static/media/camera.494fd06ffe76201d9401.svg",
+    "static/media/percent.svg": "./static/media/percent.311d1c5e51fa17eeb085.svg",
     "static/media/tofavorites.svg": "./static/media/tofavorites.af25bcd34afc9ecac41b.svg",
     "static/media/VK.svg": "./static/media/VK.0dbbc149e1c5d5909a2a.svg",
+    "static/media/delivery2.svg": "./static/media/delivery2.b851542cc09ba13ddc66.svg",
     "static/media/Instagram.svg": "./static/media/Instagram.722f0da00ea4f4f810fe.svg",
     "static/media/phone.svg": "./static/media/phone.bc9f1655ccb5d5fafae8.svg",
     "static/media/phone2.svg": "./static/media/phone2.bbd026ee54681429f24d.svg",
@@ -68,6 +87,7 @@
     "static/media/x-mark.svg": "./static/media/x-mark.96fdb5f62573e6d16d3c.svg",
     "static/media/location.svg": "./static/media/location.f8709ba7a7f6070c0951.svg",
     "static/media/Facebook.svg": "./static/media/Facebook.97ec9066d1a4d35a4d5b.svg",
+    "static/media/info.svg": "./static/media/info.3ae6cd92e0416941e464.svg",
     "static/media/mail.svg": "./static/media/mail.d7465b1ed0e165ee8e4a.svg",
     "static/media/logo-name-6.svg": "./static/media/logo-name-6.95516299bb05de11defe.svg",
     "static/media/minus.svg": "./static/media/minus.7bdd4662477168da8c5b.svg",
@@ -83,11 +103,20 @@
     "static/media/logo-name-1.svg": "./static/media/logo-name-1.d013e5ee7d940550fcef.svg",
     "static/media/logo-name-8.svg": "./static/media/logo-name-8.15357369dcacb651f760.svg",
     "static/media/logo-name-2.svg": "./static/media/logo-name-2.b074a0d340d5461e087a.svg",
+<<<<<<< Updated upstream
     "main.5a46cc95.css.map": "./static/css/main.5a46cc95.css.map",
     "main.a4810496.js.map": "./static/js/main.a4810496.js.map"
   },
   "entrypoints": [
     "static/css/main.5a46cc95.css",
     "static/js/main.a4810496.js"
+=======
+    "main.890e9607.css.map": "./static/css/main.890e9607.css.map",
+    "main.2d296ffb.js.map": "./static/js/main.2d296ffb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.890e9607.css",
+    "static/js/main.2d296ffb.js"
+>>>>>>> Stashed changes
   ]
 }
