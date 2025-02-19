@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.890e9607.css",
-    "main.js": "./static/js/main.2d296ffb.js",
+    "main.css": "./static/css/main.475f9a5d.css",
+    "main.js": "./static/js/main.8b0bd1f0.js",
     "static/media/cup2.png": "./static/media/cup2.0d4ca07aa0487ef2c661.png",
     "static/media/product-example.png": "./static/media/product-example.3c89b682273456f4ca47.png",
     "static/media/gift-logo-ranhigs.png": "./static/media/gift-logo-ranhigs.d63cf677d557e8166354.png",
@@ -17,6 +17,7 @@
     "static/media/gift-logo-sberbank.png": "./static/media/gift-logo-sberbank.6d5ebdfa2e18827be8b8.png",
     "static/media/manager.jpg": "./static/media/manager.4585aca36ed7694dbdcf.jpg",
     "static/media/recommendation.png": "./static/media/recommendation.de66b743589531c612fc.png",
+    "static/media/map.png": "./static/media/map.931b80de6e8078314872.png",
     "static/media/photo-example.png": "./static/media/photo-example.8a118126ce1b439e7f42.png",
     "static/media/gift-logo-quiz.png": "./static/media/gift-logo-quiz.7a9ae0a957a006e8eefc.png",
     "static/media/gift-image-volvo.png": "./static/media/gift-image-volvo.de97263894749a2fdbdd.png",
@@ -37,7 +38,9 @@
     "static/media/gift-logo-volvo.png": "./static/media/gift-logo-volvo.ba48f97e5ca3bd2fc19f.png",
     "static/media/perspective.svg": "./static/media/perspective.c19f4e07128a687b2bfb.svg",
     "static/media/delivery.svg": "./static/media/delivery.5c81fe8832819d18e357.svg",
+    "static/media/logo-black.svg": "./static/media/logo-black.9028dc5a97745d716ffa.svg",
     "static/media/logo-white.svg": "./static/media/logo-white.696ec7e684b4ca81b496.svg",
+    "static/media/delivery3.svg": "./static/media/delivery3.bc96685e30da3130e882.svg",
     "static/media/tocart.svg": "./static/media/tocart.dc0d939a1a80dea04a0f.svg",
     "static/media/cart3.svg": "./static/media/cart3.97cedd15d42cb0822c71.svg",
     "static/media/cart2.svg": "./static/media/cart2.588621a2ed4f89f6926f.svg",
@@ -57,6 +60,7 @@
     "static/media/VK.svg": "./static/media/VK.0dbbc149e1c5d5909a2a.svg",
     "static/media/delivery2.svg": "./static/media/delivery2.b851542cc09ba13ddc66.svg",
     "static/media/Instagram.svg": "./static/media/Instagram.722f0da00ea4f4f810fe.svg",
+    "static/media/scope.svg": "./static/media/scope.89a39116fc119e294838.svg",
     "static/media/phone.svg": "./static/media/phone.bc9f1655ccb5d5fafae8.svg",
     "static/media/phone2.svg": "./static/media/phone2.bbd026ee54681429f24d.svg",
     "static/media/share.svg": "./static/media/share.01229ba361400ef408ef.svg",
@@ -70,6 +74,7 @@
     "static/media/heart.svg": "./static/media/heart.d96843f453d7cc5edf85.svg",
     "static/media/edit.svg": "./static/media/edit.3495d9f5fcbf26d231e5.svg",
     "static/media/tofavorites-active.svg": "./static/media/tofavorites-active.f6072c8b5006acadfda8.svg",
+    "static/media/cloud.svg": "./static/media/cloud.98c744cef26fbc1ffaff.svg",
     "static/media/copy.svg": "./static/media/copy.f4ae72753d05effff39a.svg",
     "static/media/star.svg": "./static/media/star.25491a017ca24365dbc5.svg",
     "static/media/profile.svg": "./static/media/profile.9fd7245a1ce568cfab48.svg",
@@ -92,11 +97,11 @@
     "static/media/logo-name-1.svg": "./static/media/logo-name-1.d013e5ee7d940550fcef.svg",
     "static/media/logo-name-8.svg": "./static/media/logo-name-8.15357369dcacb651f760.svg",
     "static/media/logo-name-2.svg": "./static/media/logo-name-2.b074a0d340d5461e087a.svg",
-    "main.890e9607.css.map": "./static/css/main.890e9607.css.map",
-    "main.2d296ffb.js.map": "./static/js/main.2d296ffb.js.map"
+    "main.475f9a5d.css.map": "./static/css/main.475f9a5d.css.map",
+    "main.8b0bd1f0.js.map": "./static/js/main.8b0bd1f0.js.map"
   },
   "entrypoints": [
-    "static/css/main.890e9607.css",
-    "static/js/main.2d296ffb.js"
+    "static/css/main.475f9a5d.css",
+    "static/js/main.8b0bd1f0.js"
   ]
 }
