@@ -1,17 +1,30 @@
 {
   "files": {
-    "main.css": "./static/css/main.475f9a5d.css",
-    "main.js": "./static/js/main.8b0bd1f0.js",
+    "main.css": "./static/css/main.a90954d2.css",
+    "main.js": "./static/js/main.26c5b3c8.js",
     "static/media/cup2.png": "./static/media/cup2.0d4ca07aa0487ef2c661.png",
     "static/media/product-example.png": "./static/media/product-example.3c89b682273456f4ca47.png",
     "static/media/gift-logo-ranhigs.png": "./static/media/gift-logo-ranhigs.d63cf677d557e8166354.png",
+    "static/media/medals-type.png": "./static/media/medals-type.6bb87a10463f7b9551d3.png",
+    "static/media/cups-type.png": "./static/media/cups-type.922b414efad007fcf90c.png",
+    "static/media/for_graduates-type.png": "./static/media/for_graduates-type.ae11785030c86c8c1546.png",
+    "static/media/glasses_trophies-type.png": "./static/media/glasses_trophies-type.4e5ff15b9a5bd084c502.png",
     "static/media/goods.png": "./static/media/goods.f993bde9c58b307ba3fa.png",
     "static/media/gift-image-sberbank.png": "./static/media/gift-image-sberbank.c3f9c339cd1625b2f8ef.png",
+    "static/media/medal-example.png": "./static/media/medal-example.6bfc0003dbed312639a4.png",
     "static/media/tshirt-example.png": "./static/media/tshirt-example.35ef4b6d43224315362a.png",
+    "static/media/plates-type.png": "./static/media/plates-type.9d717f137cad77ca247a.png",
+    "static/media/plaques-type.png": "./static/media/plaques-type.076af2b074ac777400b9.png",
+    "static/media/wooden_trophies-type.png": "./static/media/wooden_trophies-type.0d3b5d5162035270ecb1.png",
+    "static/media/new.jpg": "./static/media/new.62d4a9a99fa49177e332.jpg",
     "static/media/announcement.png": "./static/media/announcement.fbc162ae72862b99e47b.png",
+    "static/media/acrylic_prizes-type.png": "./static/media/acrylic_prizes-type.0ada2a797c70624122fc.png",
     "static/media/gift-logo-fitness.png": "./static/media/gift-logo-fitness.fdc41b0d7e1ddc4eb587.png",
     "static/media/avatar.jpg": "./static/media/avatar.adec848802715b52a3d5.jpg",
+    "static/media/acrylic_medals-type.png": "./static/media/acrylic_medals-type.f81418c9d8c9e579923c.png",
+    "static/media/souvenirs-type.png": "./static/media/souvenirs-type.8be7079e1c343b3b6274.png",
     "static/media/recommendation1.png": "./static/media/recommendation1.fab6b5da8b837f63153a.png",
+    "static/media/figurines-type.png": "./static/media/figurines-type.6be99b1e93ab8390326a.png",
     "static/media/info-example.png": "./static/media/info-example.6be99b1e93ab8390326a.png",
     "static/media/cup1.png": "./static/media/cup1.3e8177c19ce7e6cd46a9.png",
     "static/media/gift-logo-sberbank.png": "./static/media/gift-logo-sberbank.6d5ebdfa2e18827be8b8.png",
@@ -70,6 +83,7 @@
     "static/media/address.svg": "./static/media/address.47762d04a5ae0cc6c9a6.svg",
     "static/media/chevron-toright.svg": "./static/media/chevron-toright.e4ffb6e2420798edf4a0.svg",
     "static/media/plus.svg": "./static/media/plus.9a60bd0b276423b6e470.svg",
+    "static/media/chevron-toleft.svg": "./static/media/chevron-toleft.f1a183d99cd3bbc091ef.svg",
     "static/media/search.svg": "./static/media/search.2628ce41c684e6c4b360.svg",
     "static/media/heart.svg": "./static/media/heart.d96843f453d7cc5edf85.svg",
     "static/media/edit.svg": "./static/media/edit.3495d9f5fcbf26d231e5.svg",
@@ -97,11 +111,11 @@
     "static/media/logo-name-1.svg": "./static/media/logo-name-1.d013e5ee7d940550fcef.svg",
     "static/media/logo-name-8.svg": "./static/media/logo-name-8.15357369dcacb651f760.svg",
     "static/media/logo-name-2.svg": "./static/media/logo-name-2.b074a0d340d5461e087a.svg",
-    "main.475f9a5d.css.map": "./static/css/main.475f9a5d.css.map",
-    "main.8b0bd1f0.js.map": "./static/js/main.8b0bd1f0.js.map"
+    "main.a90954d2.css.map": "./static/css/main.a90954d2.css.map",
+    "main.26c5b3c8.js.map": "./static/js/main.26c5b3c8.js.map"
   },
   "entrypoints": [
-    "static/css/main.475f9a5d.css",
-    "static/js/main.8b0bd1f0.js"
+    "static/css/main.a90954d2.css",
+    "static/js/main.26c5b3c8.js"
   ]
 }
