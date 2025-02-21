@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.a90954d2.css",
-    "main.js": "./static/js/main.26c5b3c8.js",
+    "main.css": "./static/css/main.d6142710.css",
+    "main.js": "./static/js/main.0732a06e.js",
     "static/media/cup2.png": "./static/media/cup2.0d4ca07aa0487ef2c661.png",
     "static/media/product-example.png": "./static/media/product-example.3c89b682273456f4ca47.png",
     "static/media/gift-logo-ranhigs.png": "./static/media/gift-logo-ranhigs.d63cf677d557e8166354.png",
@@ -17,6 +17,7 @@
     "static/media/plaques-type.png": "./static/media/plaques-type.076af2b074ac777400b9.png",
     "static/media/wooden_trophies-type.png": "./static/media/wooden_trophies-type.0d3b5d5162035270ecb1.png",
     "static/media/new.jpg": "./static/media/new.62d4a9a99fa49177e332.jpg",
+    "static/media/map1.png": "./static/media/map1.c57f412a4271efbe9fc8.png",
     "static/media/announcement.png": "./static/media/announcement.fbc162ae72862b99e47b.png",
     "static/media/acrylic_prizes-type.png": "./static/media/acrylic_prizes-type.0ada2a797c70624122fc.png",
     "static/media/gift-logo-fitness.png": "./static/media/gift-logo-fitness.fdc41b0d7e1ddc4eb587.png",
@@ -111,11 +112,11 @@
     "static/media/logo-name-1.svg": "./static/media/logo-name-1.d013e5ee7d940550fcef.svg",
     "static/media/logo-name-8.svg": "./static/media/logo-name-8.15357369dcacb651f760.svg",
     "static/media/logo-name-2.svg": "./static/media/logo-name-2.b074a0d340d5461e087a.svg",
-    "main.a90954d2.css.map": "./static/css/main.a90954d2.css.map",
-    "main.26c5b3c8.js.map": "./static/js/main.26c5b3c8.js.map"
+    "main.d6142710.css.map": "./static/css/main.d6142710.css.map",
+    "main.0732a06e.js.map": "./static/js/main.0732a06e.js.map"
   },
   "entrypoints": [
-    "static/css/main.a90954d2.css",
-    "static/js/main.26c5b3c8.js"
+    "static/css/main.d6142710.css",
+    "static/js/main.0732a06e.js"
   ]
 }
